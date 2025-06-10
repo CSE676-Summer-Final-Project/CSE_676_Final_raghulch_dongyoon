@@ -70,4 +70,9 @@ This project was submitted as part of the final coursework for CSE 676: Deep Lea
 This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
 
 The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+<<<<<<< HEAD
 >>>>>>> 486acaf (Initial commit)
+=======
+
+Project updated on June 9 by Dongyoon
+>>>>>>> 09bc558 (Once more Update README on June 9)
