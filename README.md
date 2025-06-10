@@ -42,7 +42,7 @@ LSTM (Long short term memory): This captures the long term dependencies in sales
 
 GRU (Gated Recurrent Unit): A recurrent block that is less complex and more efficient than LSTM
 
-CNN-LSTM: Employ convolution layers to capture local patterns and then LSTM to learn sequence information.
+CNN-RNN: Employ convolution layers to capture local patterns and then LSTM to learn sequence information.
 
 Transformer: A self-attention model that is capable of understanding some dependencies without relying on recurrence.
 
