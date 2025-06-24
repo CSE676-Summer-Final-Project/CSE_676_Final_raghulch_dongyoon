@@ -2,7 +2,7 @@
 
 **CSE 676 Final Project – Deep Learning in Supply Chain Optimization**
 
-This project was created as part of CSE 676 (Deep Learning) at SUNY Buffalo, and follows the use of more specialized deep learning models to predict demand of products in a retail and/or warehouse situation. We aim to enhance the accuracy of demand prediction and to assist data-driven decision-making in inventory and supply chain management.
+The project was created as part of CSE 676 (Deep Learning) at SUNY Buffalo, and follows the use of more specialized deep learning models to predict demand of products in a retail and/or warehouse situation. We aim to enhance the accuracy of demand prediction and to assist data-driven decision-making in inventory and supply chain management.
 
 **Dataset Overview**
 
