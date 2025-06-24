@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 **# CSE_676_Final_raghulch_dongyoon**
 
 **CSE 676 Final Project – Deep Learning in Supply Chain Optimization**
