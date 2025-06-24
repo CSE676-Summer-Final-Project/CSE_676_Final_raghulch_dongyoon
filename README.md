@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **# CSE_676_Final_raghulch_dongyoon**
 
 **CSE 676 Final Project – Deep Learning in Supply Chain Optimization**
@@ -64,3 +65,9 @@ This project was submitted as part of the final coursework for CSE 676: Deep Lea
 - SUNY Buffalo – Department of Computer Science and Engineering   
 
 - Open-source contributors to PyTorch, NumPy, and related ML libraries
+=======
+# Welcome to your organization's demo respository
+This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+
+The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+>>>>>>> 486acaf (Initial commit)
