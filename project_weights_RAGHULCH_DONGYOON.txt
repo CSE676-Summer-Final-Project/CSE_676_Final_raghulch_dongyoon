@@ -1,0 +1,3 @@
+UB BOX LINK: https://buffalo.box.com/s/7hatrv2g2l0lifsk2knx250syv53qax0
+NOTE: Please refer to the PDF titled "Drive Links to Data" for access to the data at each stage. It contains links to CSV and npy files corresponding to each milestone or data segment, as well as CSV files with evaluation metrics. The model weights and some more csv files are  available separately in the UB Box.
+
